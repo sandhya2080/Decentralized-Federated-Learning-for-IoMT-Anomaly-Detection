@@ -1,0 +1,10 @@
+# requirements.txt
+numpy
+pandas
+tensorflow
+torch
+scikit-learn
+cryptography
+python-dotenv
+matplotlib
+seaborn
